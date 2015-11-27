@@ -28,5 +28,4 @@ Website - Accessories on Product Page
     'data': [
         'views/product_accessories.xml',
     ]
-    
 }
